@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#banner {   
+    display: grid;
+    padding: 10px 0;
+    grid-template-columns: 25% 25%;
+
+}
+
+#bike1 {
+    width: 250px;
+    padding: 0 0;
+}
+
+#doidin {
+    padding:10px 650px;
+    width: 500px;
+}
+
+body {
+    background-image: linear-gradient( #36C2BA, #2BEE90, #838481);
+}
+
+#text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+#Partes {
+    display: grid;
+    padding: 10px 0;
+    grid-template-columns: 15% 15% 15% 15% 15% 15% ;
+}
+
+#part-text {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 0;
+}
+
+#inteira-img {
+    width: 200px;
+}
+
+#pneus-img {
+    width: 200px;
+}
+
+#peças-img {
+    width: 200px;
+}
+ 
+#gui-img {
+    width: 200px;
+}
+
+#banco-img {
+    width: 200px;
+
+}
+
+#final {
+    background-color: #191919;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#seeu {
+    width: 900px;
+    
+}
+
+#criador {
+    text-align: center;
+    padding: 10px 0;
+}
+
+#alinhar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#eu {
+    width: 100px;
+}
+
+#criadorname {
+    padding: 10px 0;
+    text-align: center;
+}
+
+#alinhar2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#git {
+    width: 100px;
+    padding: 10px 0;
+}
